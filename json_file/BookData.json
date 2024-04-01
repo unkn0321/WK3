@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Popular Books",
+        "horizontal": true,
+        "data": [
+            {
+                "id": 1,
+                "title": "Fashionopolis", 
+                "author": "Dana Thomas",
+                "thumbnail": "img_book_fashinopolis.png",
+                "isRated": false,
+                "description" : "What should I wear? It’s one of the fundamental questions we ask ourselves every day. More than ever, we are told it should be something new. Today, the clothing industry churns out 80 billion garments a year and employs every sixth person on Earth. "
+            },
+            {
+                "id": 2,
+                "title": "Chanel", 
+                "author": "Patrick Mauriès",
+                "thumbnail": "img_book_chanel.png",
+                "isRated": false,
+                "description": "Almost 50 years after her death, Coco Chanel remains one of the world’s most influential fashion designers. Her story is one of creative brilliance and innovation - she was a driving force in freeing women from the restrictive clothing they had been obliged to wear for generations. ’In order to be irreplaceable, one must always be different, ’ Chanel would say, and throughout her life she demonstrated extraordinary passion and determination to change the world around her."
+            },
+            {
+                "id": 3,
+                "title": "Calligraphy", 
+                "author": "June & Jucy",
+                "thumbnail": "img_book_calligraphy.png",
+                "isRated": false,
+                "description": "In this practical manual, a noted calligraphy teacher offers a comprehensive, step-by-step guide for the student. Beginning with a brief but fascinating history of copperplate, she moves quickly to an in-depth examination of the alphabet, numbers, and punctuation. Each letter is demonstrated stroke by stroke with a clear explanation."
+            }
+        ]
+    },
+    {
+        "title": "Newest",
+        "horizontal": true,
+        "data": [
+            {
+                "id": 4,
+                "title": "Yves Saint Laurent", 
+                "author": "Suzy Menkes",
+                "thumbnail": "img_book_ysl.png",
+                "isRated": true,
+                "stars" : 4,
+                "description": "Discover Saint Laurent Official Online Store. Explore the latest collections of luxury handbags, ready to wear, shoes, leather goods and accessories for men."
+            },
+            {
+                "id": 5,
+                "title": "The Book of Signs", 
+                "author": "Rudolf Koch",
+                "thumbnail": "img_book_tbos.png",
+                "isRated": true,
+                "stars" : 3,
+                "description": "Bestselling journalist Dana Thomas has traveled the globe to discover the visionary designers and companies who are propelling the industry toward that more positive future by reclaiming traditional craft and launching cutting-edge sustainable technologies to produce better fashion."
+            },
+            {
+                "id": 6,
+                "title": "Stitched Up", 
+                "author": "Tansy E. Hoskins",
+                "thumbnail": "img_book_stitchedup.png",
+                "isRated": true,
+                "stars" : 3,
+                "description": "Historically, the apparel trade has exploited labor, the environment, and intellectual property—and in the last three decades, with the simultaneous unfurling of fast fashion, globalization, and the tech revolution, those abuses have multiplied exponentially, primarily out of view."
+            }
+        ]
+    }
+]
